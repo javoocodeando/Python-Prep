@@ -12,11 +12,6 @@ def ListaEnteros(inicio, tamanio):
     '''
     lista = []
     #Tu código aca:
-    assert type(inicio) == int, 'El inicio debe ser un número Entero'
-    assert type(tamanio) == int, 'El tamaño de la lista debe ser un número Entero'
-    for i in range(inicio, inicio+tamanio):
-        
-        lista.append(i)
     return lista
 
 def DividirDosNumeros(dividendo, divisor):

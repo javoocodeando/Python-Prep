@@ -36,4 +36,4 @@ Luego, debes subir un commit a tu repo. Para hacerlo, debes ejecutar el siguient
 
 Una vez finalizado, chequea:
 1. Que veas los cambios reflejados en el repo de tu cuenta de github (entrando a tu repo desde el browser.)
-2.  Que no haya un require - solo debe haber codigo dentro de las funciones de cada ejercicio 
+2. Que no haya un require - solo debe haber codigo dentro de las funciones de cada ejercicio 
